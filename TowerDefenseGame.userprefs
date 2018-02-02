@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E3D52820-9006-D370-2A33-9F2358EB44C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MonsterData.cs">
+    <Files>
+      <File FileName="Assets/PlaceMonster.cs" Line="7" Column="1" />
+      <File FileName="Assets/MonsterData.cs" Line="8" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TowerDefenseGame PreferredExecutionTarget="Unity.Editor" />
+</Properties>
