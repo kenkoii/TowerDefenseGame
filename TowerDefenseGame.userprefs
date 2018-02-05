@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{E3D52820-9006-D370-2A33-9F2358EB44C7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MonsterData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpawnEnemy.cs">
     <Files>
-      <File FileName="Assets/PlaceMonster.cs" Line="7" Column="1" />
-      <File FileName="Assets/MonsterData.cs" Line="8" Column="26" />
+      <File FileName="Assets/PlaceMonster.cs" Line="64" Column="59" />
+      <File FileName="Assets/MonsterData.cs" Line="80" Column="25" />
+      <File FileName="Assets/GameManagerBehavior.cs" Line="6" Column="32" />
+      <File FileName="Assets/MoveEnemy.cs" Line="51" Column="10" />
+      <File FileName="Assets/SpawnEnemy.cs" Line="12" Column="86" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

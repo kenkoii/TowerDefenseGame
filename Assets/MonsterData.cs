@@ -66,4 +66,29 @@ public class MonsterData : MonoBehaviour
             }
         }
     }
+
+    public MonsterLevel GetNextLevel()
+    {
+        int currentLevelIndex = levels.IndexOf(currentLevel);
+        int maxLevelIndex = levels.Count - 1;
+        if (currentLevelIndex < maxLevelIndex)
+        {
+            return levels[currentLevelIndex + 1];
+        }
+        else
+        {
+            return null;
+        }
+    }
+
+
+
+    public void IncreaseLevel()
+    {
+        int currentLevelIndex = levels.IndexOf(currentLevel);
+        if (currentLevelIndex < levels.Count - 1)
+        {
+            CurrentLevel = levels[currentLevelIndex + 1];
+        }
+    }
 }
